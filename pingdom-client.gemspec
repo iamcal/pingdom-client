@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.files = [
     "pingdom-client.gemspec",
     "Gemfile",
-    "Gemfile.lock",
     "lib/pingdom/base.rb",
     "lib/pingdom/check.rb",
     "lib/pingdom/client.rb",
@@ -25,7 +24,7 @@ Gem::Specification.new do |s|
     "lib/pingdom.rb",
     "lib/tinder/faraday_response.rb",
     "Rakefile",
-    "Readme.md",
+    "README.md",
     "spec/pingdom-client_spec.rb",
     "spec/spec_helper.rb"
   ]
